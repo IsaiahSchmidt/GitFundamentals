@@ -9,7 +9,7 @@ cd NewDirectory
 git init
 ```
 
-Once inside a git repositroy, you can start using commands such as
+Once inside a git repository, you can start using commands such as
 [status](./Status.md),
 [add](./Add.md),
 [commit](./Commit.md),
